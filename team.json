@@ -1,0 +1,38 @@
+[
+    {
+    "photo": "images/Sabyr.jpg",
+    "name": { "ru": "Сабыр Рахым", "kk": "Сабыр Рахым", "en": "Sabyr Rakhym" },
+    "role": { "ru": "Мажоритарный акционер", "kk": "Мажоритарлық акционер", "en": "The majority shareholder" },
+    "bio": { "ru": "10 лет опыта в инвестиционном банкинге.", "kk": "Инвестициялық банкинг саласында 10 жылдық тәжірибе.", "en": "10 years of experience in investment banking." }
+  },
+  {
+    "photo": "images/Aibek.jpg",
+    "name": { "ru": "Айбек Сарыбек", "kk": "Айбек Сарыбек", "en": "Aibek Sarybek" },
+    "role": { "ru": "Председатель Совета директоров, независимый директор", "kk": "Директорлар кеңесінің төрағасы, Тәуелсіз директор", "en": "Chairman of the Board of Directors, Independent Director" },
+    "bio": { "ru": "Занимал ключевые позиции в структурах казначейства и корпоративных финансов.", "kk": "Қазынашылық және корпоративтік қаржы құрылымдарында маңызды лауазымдарды атқарды.", "en": "Held key positions within treasury and corporate finance functions." }
+  },
+  {
+    "photo": "images/Bauka.jpg",
+    "name": { "ru": "Бауыржан Байжан", "kk": "Бауыржан Байжан", "en": "Bauyrzhan Baizhan" },
+    "role": { "ru": "Член Совета директоров", "kk": "Директорлар кеңесінің мүшесі", "en": "Member of the Board of Directors" },
+    "bio": { "ru": "Эффективно управлял портфелем активов на сумму 100 миллионов долларов.", "kk": "100 миллион АҚШ доллары көлеміндегі активтер портфолиосын тиімді басқарды.", "en": "Effectively managed an asset portfolio valued at $100 million." }
+  },
+  {
+    "photo": "images/Erasyl.jpg",
+    "name": { "ru": "Ерасыл Кадримбет", "kk": "Ерасыл Кадримбет", "en": "Erasyl Kadrimbet" },
+    "role": { "ru": "Финансовый директор", "kk": "Қаржы директоры", "en": "Chief Financial Officer" },
+    "bio": { "ru": "Обладает более чем 12-летним опытом в корпоративных финансах и управлении инвестиционными активами.", "kk": "Корпоративтік қаржы және инвестициялық активтерді басқару саласында 12 жылдан астам тәжірибесі бар.", "en": "Possesses over 12 years of experience in corporate finance and investment asset management." }
+  },
+  {
+    "photo": "images/Bekali.jpg",
+    "name": { "ru": "Бекали Айсын", "kk": "Бекали Айсын", "en": "Bekali Aisyn" },
+    "role": { "ru": "Директор Департамента торговых операций", "kk": "Сауда операциялары департаментінің директоры", "en": "Director of the Trading Operations Department" },
+    "bio": { "ru": "Профессионал финансового рынка с многолетним опытом работы в сфере инвестиционных услуг и операций на рынке ценных бумаг.", "kk": "Инвестициялық қызметтер және бағалы қағаздар нарығындағы операциялар саласында көпжылдық тәжірибесі бар қаржы нарығының маманы.", "en": "Financial market professional with many years of experience in the field of investment services and operations in the securities market." }
+  },
+  {
+    "photo": "images/Alikhan.jpg",
+    "name": { "ru": "Алихан Жамбаев", "kk": "Алихан Жамбаев", "en": "Alikhan Zhambayev" },
+    "role": { "ru": "Директор департамента информационных технологий", "kk": "Ақпараттық технологиялар департаментінің директоры", "en": "Director of the Information Technology Department" },
+    "bio": { "ru": "Внедрял инновационные IT-решения и цифровизировал финансовые инструменты.", "kk": "Инновациялық IT шешімдері мен цифрландырылған қаржы құралдарын енгізді.", "en": "Implemented innovative IT solutions and digitized financial instruments." }
+  }
+]
